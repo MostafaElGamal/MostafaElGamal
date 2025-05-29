@@ -53,8 +53,6 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="45" alt="graphql logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo"  />
-  <img width="16" />
   <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="45" alt="nuxtjs logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
