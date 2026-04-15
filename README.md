@@ -44,7 +44,6 @@
     </tr>
   </table>
 </div>
-###
 
 <div align="left">
   <a href="https://x.com/Mustafa_ElGaml0" target="_blank">
